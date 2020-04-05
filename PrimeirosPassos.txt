@@ -1,0 +1,3 @@
+Este é o meu primeiro arquivo de teste do Git
+Alterações realizadas no meu arquivo
+Alterações para lançar no github
